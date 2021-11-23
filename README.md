@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/tiagocampo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagocampo&count_private=true&show_icons=true&theme=dracula" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tiagocampo&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/tiagocampo/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocampo&layout=compact" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocampo&layout=compact&theme=dracula" />
 </a>
 
 <!--
