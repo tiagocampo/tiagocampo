@@ -1,6 +1,6 @@
 ### Hello there, my name is Tiago de Campos
 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently Data Scientist at Itaú Unibanco.
 <div align="center">
   <a href="https://github.com/tiagocampo">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tiagocampo&count_private=true&show_icons=true&theme=dracula" />
